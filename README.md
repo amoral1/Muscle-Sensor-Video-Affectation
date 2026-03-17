@@ -1,6 +1,7 @@
 # Muscle Sensor Video Affectation
 
 > **The body as the controller.** A fully wearable EMG device strapped to the arm uses muscle flexion to manipulate the red color threshold of a real-time Kinect video feed — no buttons, no knobs, just movement.
+> Video documentation of live script here: https://vimeo.com/821194204
 
 ---
 
@@ -68,7 +69,7 @@ Authorization: Bearer {ACCESS_TOKEN}
 ```
 https://anaismorales.com/assets/muscleflex1.jpg
 <img src="https://anaismorales.com/assets/muscleflex_armdrawing.png" alt="Alt text" width="500" height="400">
-<img src="https://anaismorales.com/assets/muscleflex1.jpg" alt="Alt text" width="500" height="200">
+<img src="https://anaismorales.com/assets/muscleflex1.jpg">
 
 [![Watch the video](https://vumbnail.com)](https://vimeo.com/821194204)
 
@@ -213,7 +214,3 @@ The hardware is low-cost, fully wireless, and runs on a battery that fits on the
 
 A prototype exploring the potential of muscle sensing as a real-time creative interface.
 Using Particle hardtech (Particle Boron, a bluetooth microcontroller) to receive signal from muscle sense data in order to affect visual representation on Kinect webcam using using C#, integreting JSON GET Requests via Processing, bridging the Particle API. 
-
-Video documentation of live script here: https://vimeo.com/821194204
-
-
