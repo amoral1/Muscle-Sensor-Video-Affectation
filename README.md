@@ -67,7 +67,7 @@ GET https://api.particle.io/v1/devices/{DEVICE_ID}/{VARIABLE}
 Authorization: Bearer {ACCESS_TOKEN}
 ```
 
-[![Watch the video](https://vumbnail.com)](https://vimeo.com/821194204_PLAY)
+[![Watch the video](https://vumbnail.com)](https://vimeo.com/821194204)
 
 ---
 
