@@ -7,7 +7,6 @@
 
 
 <img src="https://anaismorales.com/assets/muscleflex_armdrawing.png" alt="Alt text" width="500" height="400">
-<img src="https://anaismorales.com/assets/muscleflex1.jpg">
 
 
 ## Functionality
@@ -17,6 +16,8 @@ This project turns forearm muscle activity into a live video filter. A **Particl
 - **Arm flexion inward** (wrist and forearm pulling toward the body) → widens red surface area in the video
 - **Arm extension outward** (forearm pulling away) → reduces red surface area
 - The body itself mediates every visual result
+
+<img src="https://anaismorales.com/assets/muscleflex1.jpg">
 
 ---
 
