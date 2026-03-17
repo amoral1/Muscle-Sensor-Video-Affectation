@@ -5,7 +5,12 @@
 
 ---
 
-## What It Does
+
+<img src="https://anaismorales.com/assets/muscleflex_armdrawing.png" alt="Alt text" width="500" height="400">
+<img src="https://anaismorales.com/assets/muscleflex1.jpg">
+
+
+## Functionality
 
 This project turns forearm muscle activity into a live video filter. A **Particle Boron** microcontroller reads an EMG (electromyography) sensor mounted at the wrist and forearm. That sensor data travels over LTE to the **Particle Cloud API**, where a **Processing sketch** polls it continuously via HTTP GET. The sketch simultaneously captures a depth-aware video stream from a **Microsoft Kinect** and uses the incoming muscle values to widen or narrow the red color threshold across every frame.
 
@@ -67,10 +72,6 @@ The Boron publishes sensor readings as a Particle variable, accessible via the R
 GET https://api.particle.io/v1/devices/{DEVICE_ID}/{VARIABLE}
 Authorization: Bearer {ACCESS_TOKEN}
 ```
-
-<img src="https://anaismorales.com/assets/muscleflex_armdrawing.png" alt="Alt text" width="500" height="400">
-<img src="https://anaismorales.com/assets/muscleflex1.jpg">
-
 
 ---
 
