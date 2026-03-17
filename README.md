@@ -66,11 +66,11 @@ The Boron publishes sensor readings as a Particle variable, accessible via the R
 GET https://api.particle.io/v1/devices/{DEVICE_ID}/{VARIABLE}
 Authorization: Bearer {ACCESS_TOKEN}
 ```
-
-<img src="https://anaismorales.com/assets/muscleflex2.jpg" alt="Alt text" width="300" height="200">
+https://anaismorales.com/assets/muscleflex1.jpg
+<img src="https://anaismorales.com/assets/muscleflex_armdrawing.png" alt="Alt text" width="500" height="400">
+<img src="https://anaismorales.com/assets/muscleflex1.jpg" alt="Alt text" width="500" height="200">
 
 [![Watch the video](https://vumbnail.com)](https://vimeo.com/821194204)
-
 
 
 ---
@@ -180,6 +180,9 @@ This device demonstrates that **muscle activity can serve as a continuous, analo
 The hardware is low-cost, fully wireless, and runs on a battery that fits on the forearm — the entire sensing layer is self-contained.
 
 ---
+
+<img src="https://anaismorales.com/assets/muscleflex2.jpg" alt="Alt text" width="500" height="400">
+
 
 ## Repository Structure
 
