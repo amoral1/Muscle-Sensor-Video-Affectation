@@ -1,7 +1,7 @@
 # Muscle Sensor Video Affectation
 
 > **The body as the controller.** A fully wearable EMG device strapped to the arm uses muscle flexion to manipulate the red color threshold of a real-time Kinect video feed — no buttons, no knobs, just movement.
-> Video documentation of live script here: https://vimeo.com/821194204
+> Video documentation of live actuation call-response here: https://vimeo.com/821194204
 
 ---
 
@@ -67,11 +67,9 @@ The Boron publishes sensor readings as a Particle variable, accessible via the R
 GET https://api.particle.io/v1/devices/{DEVICE_ID}/{VARIABLE}
 Authorization: Bearer {ACCESS_TOKEN}
 ```
-https://anaismorales.com/assets/muscleflex1.jpg
+
 <img src="https://anaismorales.com/assets/muscleflex_armdrawing.png" alt="Alt text" width="500" height="400">
 <img src="https://anaismorales.com/assets/muscleflex1.jpg">
-
-[![Watch the video](https://vumbnail.com)](https://vimeo.com/821194204)
 
 
 ---
