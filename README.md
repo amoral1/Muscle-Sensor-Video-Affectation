@@ -1,6 +1,6 @@
 # Muscle Sensor Video Affectation
 
-> **Your body is the controller.** A fully wearable EMG device strapped to the arm uses muscle flexion to manipulate the red color threshold of a real-time Kinect video feed — no buttons, no knobs, just movement.
+> **The body as the controller.** A fully wearable EMG device strapped to the arm uses muscle flexion to manipulate the red color threshold of a real-time Kinect video feed — no buttons, no knobs, just movement.
 
 ---
 
@@ -50,6 +50,7 @@ This project turns forearm muscle activity into a live video filter. A **Particl
 
 ---
 
+
 ## Hardware
 
 | Component | Purpose |
@@ -65,6 +66,8 @@ The Boron publishes sensor readings as a Particle variable, accessible via the R
 GET https://api.particle.io/v1/devices/{DEVICE_ID}/{VARIABLE}
 Authorization: Bearer {ACCESS_TOKEN}
 ```
+
+[![Watch the video](https://vumbnail.com)](https://vimeo.com/821194204_PLAY)
 
 ---
 
@@ -198,3 +201,12 @@ The hardware is low-cost, fully wireless, and runs on a battery that fits on the
 ---
 
 *A wearable prototype exploring the potential of muscle sensing as a real-time creative interface.*
+
+
+
+A prototype exploring the potential of muscle sensing as a real-time creative interface.
+Using Particle hardtech (Particle Boron, a bluetooth microcontroller) to receive signal from muscle sense data in order to affect visual representation on Kinect webcam using using C#, integreting JSON GET Requests via Processing, bridging the Particle API. 
+
+Video documentation of live script here: https://vimeo.com/821194204
+
+
