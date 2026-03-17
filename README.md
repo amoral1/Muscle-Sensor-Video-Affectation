@@ -17,7 +17,7 @@ This project turns forearm muscle activity into a live video filter. A **Particl
 - **Arm extension outward** (forearm pulling away) → reduces red surface area
 - The body itself mediates every visual result
 
-<img src="https://anaismorales.com/assets/muscleflex_armdrawing.png" alt="Alt text" width="500" height="400">
+<img src="https://anaismorales.com/assets/muscleflex_armdrawing.png" >
 ---
 
 ## System Architecture
