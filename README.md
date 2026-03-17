@@ -67,9 +67,11 @@ GET https://api.particle.io/v1/devices/{DEVICE_ID}/{VARIABLE}
 Authorization: Bearer {ACCESS_TOKEN}
 ```
 
-<video src="https://vimeo.com/821194204" controls width="100%"></video>
+<img src="https://anaismorales.com/assets/muscleflex2.jpg" alt="Alt text" width="300" height="200">
 
 [![Watch the video](https://vumbnail.com)](https://vimeo.com/821194204)
+
+
 
 ---
 
